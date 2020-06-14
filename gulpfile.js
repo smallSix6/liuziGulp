@@ -213,3 +213,15 @@ module.exports = {
   deploy,
   clean,
 };
+/*
+演示命令：
+yarn lint
+yarn compile
+yarn serve
+yarn serve --port=8866 --open
+yarn build
+yarn build --production
+yarn start --port=8866 --open
+yarn deploy
+yarn clean
+*/
